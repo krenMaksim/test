@@ -2,5 +2,5 @@
 *.class
 *.classpath
 .metadata
-taget/
+**/taget/
 .settings/
