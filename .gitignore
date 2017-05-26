@@ -1,1 +1,6 @@
-.project
+*.project
+*.class
+*.classpath
+.metadata
+taget/
+.settings/

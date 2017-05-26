@@ -1,0 +1,58 @@
+.tableContener {
+    display: table;
+    width: 97%;
+    text-align: center;
+    margin-left: 1.5%;    
+}
+
+.tableRaw {
+    display: table-row;    
+}
+
+.cell {
+    display: table-cell;
+    width: 20%;
+    text-align: center;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.magazineButton {
+    width: 320px;
+    height: 35px;
+    font-size: 20px;
+    color: #7183b4;
+    background-color: #d0ccad;
+}
+
+#magazineButton {
+    text-align: left;    
+}
+
+.magazinCheckbox {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;    
+}
+
+#date {
+    width: 10%;
+    text-align: right;    
+}
+
+.date {
+    width: 200px;
+    font-size: 20px;   
+}
+
+select {
+    width: 200px;
+}
+
+option {
+    font-size: 20px;
+}
+
+.correction{
+	color: red;
+}

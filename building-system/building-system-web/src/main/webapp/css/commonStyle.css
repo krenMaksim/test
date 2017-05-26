@@ -1,0 +1,81 @@
+body{
+    background-color: #46b597;
+    font-family: Geneva; /*Verdana, Geneva, Arial, sans-serif*/
+    font-size: large;
+    text-align: center;
+}
+
+header {
+    display: table;
+    width: 100%;
+    margin-left: 1%;    
+}
+
+.headerCell {
+    display: table-cell;    
+}
+
+h2 {
+    color: #5e6b74;
+    text-align: left;        
+}
+
+.headerButton {
+    width: 230px;
+    height: 30px;
+    font-size: 20px;
+    color: #e69bb0;
+    background-color: #00fff5;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+table {
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;    
+    border-collapse: collapse; /*чтобы расстояние между ячейками слиплось*/
+}
+
+td, th {
+    border-style: dotted;
+    border-width: thin;
+    border-color: grey;
+    background-color: #9bbcbc;
+    text-align: center;
+}
+
+th {
+    background-color: orange;
+}
+
+caption {
+    font-style: italic;
+    padding-top: 8px;
+    caption-side: top;
+}
+
+.width5 {
+    width: 5%;  
+}
+
+.width30 {
+    width: 30%;  
+}
+
+.width10 {
+    width: 10%;  
+}
+
+.width20 {
+    width: 20%;  
+}
+
+.tdJustify {
+    text-align: justify;
+}
