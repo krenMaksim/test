@@ -1,8 +1,0 @@
-com\mkren\building\controller\SmetaController.class
-com\mkren\building\controller\BaseController.class
-com\mkren\building\controller\MagazineController.class
-com\mkren\building\controller\NewRecordController.class
-com\mkren\building\controller\filter\AppFilter.class
-com\mkren\building\controller\util\HttpUtils.class
-com\mkren\building\controller\AvtorizationController.class
-com\mkren\building\controller\RedactorController.class
