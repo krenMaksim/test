@@ -1,4 +1,5 @@
 ADIT WITH GIT 15:22
+now commit to git 15:25
 now commit to git
 
 my commit
