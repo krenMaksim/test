@@ -1,3 +1,4 @@
+now commit to git
 my commit
 first commit
 second commit from git
