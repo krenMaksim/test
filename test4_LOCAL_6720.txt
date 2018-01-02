@@ -1,0 +1,6 @@
+my commit
+first commit
+second commit from git
+third commit from eclipse
+gfdgfdgdfgfdgfdgdf
+master branch
