@@ -19,15 +19,5 @@ resolve conflicts master and iss53
 
 c5 commitgit
 
-master C9
-
-23_C1
-23_C2
-23_C3
-23_C4
-23_C5
-23_C6
-23_C8
-23_C9
-23_C10
+START POINT
 
