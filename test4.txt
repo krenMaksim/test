@@ -16,3 +16,5 @@ resolve conflicts master and iss53
 
 щк
 
+
+test2vclone
